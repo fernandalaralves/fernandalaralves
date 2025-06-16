@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou a Fernanda Lara! 👋
 
-<!--
-**fernandalaralves/fernandalaralves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnica em Informática | Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Apaixonada por tecnologia since 2013! 
+🎯 Em busca de oportunidades para crescer na área de tecnologia
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou aprendendo:
+- HTML5, CSS3 e JavaScript
+- Git e GitHub
+- VSCode
+- Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📫 Como falar comigo:
+- ✉️ E-mail: fernandalaralves@gmail.com.com
+- 🌐 LinkedIn: [[[linkedin.com/in/seunome](https://linkedin.com/in/seunome)](https://www.linkedin.com/in/fernanda-lara-alves-a247492a7/)](https://www.linkedin.com/in/fernanda-lara-alves-a247492a7/)
+- 📍 Boa Viagem - CE
+
+---
+
+💡 *“A tecnologia move o mundo, e eu estou me movendo com ela.”*

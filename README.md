@@ -14,7 +14,8 @@
 
 ## 📫 Como falar comigo:
 - ✉️ E-mail: fernandalaralves@gmail.com.com
-- 🌐 LinkedIn: [[[linkedin.com/in/seunome](https://linkedin.com/in/seunome)](https://www.linkedin.com/in/fernanda-lara-alves-a247492a7/)](https://www.linkedin.com/in/fernanda-lara-alves-a247492a7/)
+- 🌐 LinkedIn: (https://www.linkedin.com/in/fernanda-lara-alves-a247492a7/)
+
 - 📍 Boa Viagem - CE
 
 ---

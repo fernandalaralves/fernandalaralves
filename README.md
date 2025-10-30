@@ -4,13 +4,7 @@
 💻 Apaixonada por tecnologia since 2013! 
 🎯 Em busca de oportunidades para crescer na área de tecnologia
 
-## 🚀 Tecnologias que estou aprendendo:
-- HTML5, CSS3 e JavaScript
-- Git e GitHub
-- VSCode
-- Bootstrap
-
-
+---------------------------------------------------
 
 ## 📫 Como falar comigo:
 - ✉️ E-mail: fernandalaralves@gmail.com.com
@@ -18,6 +12,6 @@
 
 - 📍 Boa Viagem - CE
 
----
+---------------------------------------------------
 
 💡 *“A tecnologia move o mundo, e eu estou me movendo com ela.”*

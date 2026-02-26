@@ -1,7 +1,9 @@
 # Olá, eu sou a Fernanda Lara! 👋
 
 🎓 Técnica em Informática | Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Apaixonada por tecnologia since 2013! 
+
+💻 Apaixonada por tecnologia since 2013!
+
 🎯 Em busca de oportunidades para crescer na área de tecnologia
 
 ---------------------------------------------------
